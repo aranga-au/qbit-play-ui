@@ -1,0 +1,7 @@
+# Build and Release Folders
+build
+.tmp
+node_modules
+bower_components
+typings
+.vscode
